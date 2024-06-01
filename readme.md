@@ -258,6 +258,7 @@
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
+- [typing-game-cli](https://github.com/akgondber/typing-game-cli) - Command line game to practice your typing speed by competing against typer-robot or against your best result.
 - [discharge](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 - [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders.
 
